@@ -19,7 +19,7 @@ I'm a Brazilian student who's learning hacking and programming, my skills are li
 ## Skills
 
     SQLite - fundamentals
-    Linux - fundamentals
+    Linux - intermediate (boot.dev course + daily usage)
     Programming Logic - starter
     Python - starter
     Docker - starter
